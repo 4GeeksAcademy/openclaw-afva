@@ -1,4 +1,3 @@
-
 ---
 name: meeting-assistant
 description: Create Google Calendar events from natural-language meeting requests using an available, authorized Zapier MCP integration.
